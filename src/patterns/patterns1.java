@@ -1,6 +1,6 @@
 package patterns;
 
-public class patterns {
+public class patterns1 {
 
 
 
